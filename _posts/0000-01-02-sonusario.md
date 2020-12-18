@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Not in cruelty, not in wrath.
 Use the left arrow to go back!
